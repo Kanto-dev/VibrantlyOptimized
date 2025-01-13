@@ -1,4 +1,5 @@
-![VIBRANTLY-OPTIMIZED-1-12-2025](https://github.com/user-attachments/assets/5f235c0e-c687-45c4-9f61-f945e2fa5caa)
+
+![VIBRANTLY-OPTIMIZED-1-12-2025-removebg-preview](https://github.com/user-attachments/assets/7f9341eb-a702-4ec9-8475-33896d6cf4c5)
 
 
 # Why is this here?
