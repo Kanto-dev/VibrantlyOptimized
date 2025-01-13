@@ -1,6 +1,5 @@
-# VibrantlyOptimized
+![VIBRANTLY-OPTIMIZED-1-12-2025](https://github.com/user-attachments/assets/5f235c0e-c687-45c4-9f61-f945e2fa5caa)
 
-(something about here)[https://cdn.modrinth.com/data/cached_images/98049c8cf73bc6570dad6b2ad80839508591b53f_0.webp]
 
 # Why is this here?
 ### This is the source of my mod `Vibrantly Optimized`, this will be referenced in the Mod Showcase.
@@ -9,3 +8,4 @@
 ### The Mod is Avaiable on [Modrinth](https://modrinth.com/modpack/vibrantly-optimized).
 
 # All Credits to Me & The Mod Developers.
+
