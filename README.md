@@ -3,10 +3,10 @@
 
 
 # Why is this here?
-### This is the source of my mod `Vibrantly Optimized`, this will be referenced in the Mod Showcase.
+### This is the source of my modpack `Vibrantly Optimized`, this will be referenced in the Modpack Showcase.
 
-# Where is the Mod Available?
-### The Mod is Avaiable on [Modrinth](https://modrinth.com/modpack/vibrantly-optimized).
+# Where is the Modpack Available?
+### The Modpack is Avaiable on [Modrinth](https://modrinth.com/modpack/vibrantly-optimized).
 
 
 
